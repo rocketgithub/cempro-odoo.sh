@@ -7,3 +7,7 @@
 	path = conciliacion_bancaria
 	url = git@github.com:rocketgithub/conciliacion_bancaria.git
 	branch = 11.0
+[submodule "pos_gt"]
+	path = pos_gt
+	url = https://github.com/rocketgithub/pos_gt.git
+	branch = 11.0
