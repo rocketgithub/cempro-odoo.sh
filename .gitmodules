@@ -11,3 +11,8 @@
 	path = pos_gt
 	url = https://github.com/rocketgithub/pos_gt.git
 	branch = 11.0
+
+[submodule "pos_sat"]
+	path = pos_sat
+	url = git@github.com:rocketgithub/pos_sat.git
+	branch = 11.0
